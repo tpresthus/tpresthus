@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Thomas Presthus, and I've been coding for more than 20 years.
+
+- 👷 I work at [Erus Encodia](https://www.erus.no) as Principal Consultant
+- 📚 I used to compile lists of books and articles - they're available as repos on here
+- 💬 Ask me about Linux, Domain-Driven Design and API architecture
+- 🔗 And I've tried to blog several times, but never sticking to it, at [Ball of Code](https://www.ballofcode.com)
+
 <!--
 **tpresthus/tpresthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
